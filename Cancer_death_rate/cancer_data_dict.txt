@@ -1,0 +1,34 @@
+avgAnnCount: Average annual count of cases
+avgDeathsPerYear: Average number of deaths per year
+TARGET_deathRate: Target death rate (per 100,000 population) [Target variable]
+incidenceRate: Incidence rate (number of new cases per 100,000 population)
+medIncome: Median household income
+popEst2015: Estimated population in 2015
+povertyPercent: Percentage of population living in poverty
+studyPerCap: Per capita spending on education
+binnedInc: Binned income groups
+MedianAge: Median age of the population
+MedianAgeMale: Median age of the male population
+MedianAgeFemale: Median age of the female population
+Geography: Geographical region or area
+AvgHouseholdSize: Average household size
+PercentMarried: Percentage of married individuals
+PctNoHS18_24: Percentage of individuals aged 18-24 with no high school education
+PctHS18_24: Percentage of individuals aged 18-24 with a high school education
+PctSomeCol18_24: Percentage of individuals aged 18-24 with some college education
+PctBachDeg18_24: Percentage of individuals aged 18-24 with a bachelor's degree
+PctHS25_Over: Percentage of individuals aged 25 and over with a high school education
+PctBachDeg25_Over: Percentage of individuals aged 25 and over with a bachelor's degree
+PctEmployed16_Over: Percentage of individuals aged 16 and over who are employed
+PctUnemployed16_Over: Percentage of individuals aged 16 and over who are unemployed
+PctPrivateCoverage: Percentage of the population with private health coverage
+PctPrivateCoverageAlone: Percentage of the population with only private health coverage
+PctEmpPrivCoverage: Percentage of the population with employer-provided private health coverage
+PctPublicCoverage: Percentage of the population with public health coverage
+PctPublicCoverageAlone: Percentage of the population with only public health coverage
+PctWhite: Percentage of the population that is White
+PctBlack: Percentage of the population that is Black
+PctAsian: Percentage of the population that is Asian
+PctOtherRace: Percentage of the population that is of other races
+PctMarriedHouseholds: Percentage of households that are married
+BirthRate: Birth rate (number of live births per 1,000 population)
