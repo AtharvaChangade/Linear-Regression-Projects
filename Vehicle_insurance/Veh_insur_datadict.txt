@@ -1,0 +1,18 @@
+ID: Unique identifier for each individual
+AGE: Age of the individual
+GENDER: Gender of the individual (e.g., Male, Female, Non-binary)
+DRIVING_EXPERIENCE: Number of years of driving experience
+EDUCATION: Highest level of education attained (e.g., High School, Bachelor's, Master's)
+INCOME: Annual income of the individual
+CREDIT_SCORE: Credit score of the individual
+VEHICLE_OWNERSHIP: Indicates whether the individual owns a vehicle (e.g., Yes, No)
+VEHICLE_YEAR: Year of the vehicle owned by the individual
+MARRIED: Marital status of the individual (e.g., Married, Single)
+CHILDREN: Number of children the individual has
+POSTAL_CODE: Postal code of the individual's residence
+ANNUAL_MILEAGE: Number of miles driven annually by the individual
+SPEEDING_VIOLATIONS: Number of speeding violations in the past year
+DUIS: Number of driving under the influence (DUI) violations
+PAST_ACCIDENTS: Number of past accidents involving the individual
+OUTCOME: Outcome of the analysis (e.g., Approved, Denied)
+TYPE_OF_VEHICLE: Type of vehicle owned by the individual (e.g., Sedan, SUV, Truck)
